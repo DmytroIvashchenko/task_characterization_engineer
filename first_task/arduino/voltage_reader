@@ -1,0 +1,9 @@
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  float voltage = analogRead(A0) * (3.3 / 1023.0);
+  Serial.println(voltage, 3);  // Print voltage with 3 decimal places
+  delay(1000);  // Adjust the delay as needed
+}
