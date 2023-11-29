@@ -13,3 +13,5 @@ the const file contains constants that we refer to in the oop_version, func_vers
 
 the one_line file is an attempt to put the execution of this task in one line 
 (this is not a pure code execution, it's just more of a joke)
+
+All inline comments in the files are made in Ukrainian, I understand that in a real project everything will be done in English 
