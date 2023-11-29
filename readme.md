@@ -6,8 +6,10 @@ It was made in two versions Raspberry - folder first task folder Raspberry;
 Arduino - folder first task folder Arduino.
 
 The second task was to find the statistical parameters for a particular date set. 
+
 Performed using the principles of OOP file in the second task folder oop_version; 
-principles of functional programming file in the second task folder func_version
+
+Principles of functional programming file in the second task folder func_version
 
 The data_values file contains the specified date set
 The const file contains constants that we refer to in the oop_version, func_version files
